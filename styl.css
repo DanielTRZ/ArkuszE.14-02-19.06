@@ -1,0 +1,50 @@
+
+html,body{
+    padding:0px;margin:0px;
+}
+#baner{
+    background-color:#62AFFF;height:80px;font-size:120%; text-align:center;
+}
+#lewy{
+    background-color:#44D6E8;height:450px;width:30%;font-size:120%;float:left;
+}
+#srodek{
+    height:450px;
+    width:40%;
+    text-align:center;float:left;
+}
+#prawy{
+    background-color:#44D6E8;
+    height:450px;
+    width:30%;
+    font-size:120%; 
+    text-align:center;
+    float:left;
+}
+#stopka{
+    background-color:#62AFFF;
+    height:50px;
+    text-align:center;
+    clear:both;
+}
+table{
+    margin-left:50px;
+}
+td{
+    border:solid yellow 1px;
+    padding:20px;
+    text-align:center;
+    font-size:120%
+}
+tr:hover{
+    color:yellow
+}
+img,h3{
+    margin-top:100px;
+}
+img{
+    float:left
+}
+#num{
+    margin-top:10px
+}
