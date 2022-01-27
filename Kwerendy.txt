@@ -1,0 +1,9 @@
+kw1: SELECT nazwa, cena FROM `towary` WHERE id <= 4
+
+kw2: SELECT cena from towary where nazwa = 'cyrkiel'
+
+kw3: SELECT nazwa from towary
+
+kw4: SELECT promocja, count(promocja) as 'ilosc' from towary GROUP by towary.promocja
+
+
