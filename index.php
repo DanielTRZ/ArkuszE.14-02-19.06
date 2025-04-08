@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset='utf-8'>
-	<title>Hurtownia Papiernicza</title>
+<title>Hurtownia Papiernicza</title>
 	<link rel='Stylesheet' href='styl.css'>
 </head>
 <body>
