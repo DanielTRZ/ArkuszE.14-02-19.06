@@ -6,7 +6,7 @@
 <link rel='Stylesheet' href='styl.css'>
 </head>
 <body>
-	<div id='baner'>
+<div id='baner'>
 		<h1>W naszej hurtowni kupisz najtaniej</h1>
 	</div>
 	
