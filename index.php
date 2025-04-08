@@ -7,7 +7,7 @@
 </head>
 <body>
 <div id='baner'>
-		<h1>W naszej hurtowni kupisz najtaniej</h1>
+	<h1>W naszej hurtowni kupisz najtaniej</h1>
 	</div>
 	
 	<div id='lewy'>
