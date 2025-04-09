@@ -11,7 +11,7 @@
 </div>
 	
 <div id='lewy'>
-		<h3>Ceny wybrancyh artykułów w hurtowni:</h3>
+	<h3>Ceny wybrancyh artykułów w hurtowni:</h3>
 		<?php   
         	
         $connect=mysqli_connect('localhost','root','','bazasklep')or die ("Błąd połączenia :".mysqli_error());
