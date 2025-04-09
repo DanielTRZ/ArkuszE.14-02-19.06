@@ -12,7 +12,7 @@
 	
 <div id='lewy'>
 <h3>Ceny wybrancyh artykułów w hurtowni:</h3>
-		<?php   
+	<?php   
         	
         $connect=mysqli_connect('localhost','root','','bazasklep')or die ("Błąd połączenia :".mysqli_error());
         $q1=mysqli_query($connect,'SELECT nazwa, cena FROM towary WHERE id <= 4'); 
