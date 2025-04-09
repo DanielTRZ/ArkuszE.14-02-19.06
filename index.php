@@ -10,7 +10,7 @@
 <h1>W naszej hurtowni kupisz najtaniej</h1>
 </div>
 	
-	<div id='lewy'>
+<div id='lewy'>
 		<h3>Ceny wybrancyh artykułów w hurtowni:</h3>
 		<?php   
         	
