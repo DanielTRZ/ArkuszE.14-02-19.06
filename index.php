@@ -15,7 +15,7 @@
 <?php   
         	
 $connect=mysqli_connect('localhost','root','','bazasklep')or die ("Błąd połączenia :".mysqli_error());
-        $q1=mysqli_query($connect,'SELECT nazwa, cena FROM towary WHERE id <= 4'); 
+$q1=mysqli_query($connect,'SELECT nazwa, cena FROM towary WHERE id <= 4'); 
 		
 		echo'<table>
 			<tr>
