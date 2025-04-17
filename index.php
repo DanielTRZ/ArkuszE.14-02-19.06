@@ -19,7 +19,7 @@ $q1=mysqli_query($connect,'SELECT nazwa, cena FROM towary WHERE id <= 4');
 		
 echo'<table>
 <tr>
-		</tr>';		
+	</tr>';		
 			while($data = mysqli_fetch_assoc($q1))
 			{
 				echo '<tr>
