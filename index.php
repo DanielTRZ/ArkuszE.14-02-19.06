@@ -25,7 +25,7 @@ while($data = mysqli_fetch_assoc($q1))
 echo '<tr>
 <td>'.$data['nazwa'].'</td>
 <td>'.$data['cena'].' '.'zł'.'</td>
-		</tr>';
+	</tr>';
 			}
 			
 		echo '</table>';
