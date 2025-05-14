@@ -28,7 +28,7 @@ echo '<tr>
 </tr>';
 }
 			
-		echo '</table>';
+	echo '</table>';
 			
 		?>	
 	</div>
