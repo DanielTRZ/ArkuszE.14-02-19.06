@@ -27,6 +27,7 @@ echo '<tr>
 <td>'.$data['cena'].' '.'zł'.'</td>
 </tr>';
 }
+
 echo '</table>';
 			
 		?>	
