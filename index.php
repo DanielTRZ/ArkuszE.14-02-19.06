@@ -30,7 +30,7 @@ echo '<tr>
 
 echo '</table>';
 			
-		?>	
+	?>	
 	</div>
 	
 	<div id='srodek'>
