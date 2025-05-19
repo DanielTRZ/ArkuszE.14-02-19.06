@@ -31,7 +31,7 @@ echo '<tr>
 echo '</table>';
 			
 ?>	
-	</div>
+</div>
 	
 	<div id='srodek'>
 		<h3>Ile będą kosztować Twoje zakupy?</h3>
