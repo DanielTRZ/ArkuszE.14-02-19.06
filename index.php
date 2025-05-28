@@ -34,7 +34,7 @@ echo '</table>';
 </div>
 	
 <div id='srodek'>
-	<h3>Ile będą kosztować Twoje zakupy?</h3>
+<h3>Ile będą kosztować Twoje zakupy?</h3>
 		<form method='post' action='index.php'>
 			wybierz artykuł <select name='wybart'>
 			<option value='Zeszyt 60 kartek'>Zeszyt 60 kartek</option>
