@@ -37,7 +37,7 @@ echo '</table>';
 <h3>Ile będą kosztować Twoje zakupy?</h3>
 <form method='post' action='index.php'>
 wybierz artykuł <select name='wybart'>
-		<option value='Zeszyt 60 kartek'>Zeszyt 60 kartek</option>
+	<option value='Zeszyt 60 kartek'>Zeszyt 60 kartek</option>
 		        <option value='Zeszyt 32 kartki'>Zeszyt 32 kartki</option>
 		        <option value='Cyrkiel'>Cyrkiel</option>
 			<option value='Linijka 30 cm'>Linijka 30cm</option>
