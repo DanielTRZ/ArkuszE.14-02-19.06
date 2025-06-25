@@ -41,7 +41,7 @@ wybierz artykuł <select name='wybart'>
 <option value='Zeszyt 32 kartki'>Zeszyt 32 kartki</option>
 <option value='Cyrkiel'>Cyrkiel</option>
 <option value='Linijka 30 cm'>Linijka 30cm</option>
-	<option value='Ekierka'>Ekierka</option>
+<option value='Ekierka'>Ekierka</option>
 		<option value='Linijka 50 cm'>Linijka 50cm</option>
 							</select><br>
 			liczba sztuk: <input type='number' value='1' name='sztuk'><br>
