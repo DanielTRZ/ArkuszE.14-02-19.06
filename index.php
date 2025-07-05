@@ -44,7 +44,7 @@ wybierz artykuł <select name='wybart'>
 <option value='Ekierka'>Ekierka</option>
 <option value='Linijka 50 cm'>Linijka 50cm</option>
 </select><br>
-		liczba sztuk: <input type='number' value='1' name='sztuk'><br>
+	liczba sztuk: <input type='number' value='1' name='sztuk'><br>
 			<input type='submit' value='OBLICZ'>
 		</form>
 	
